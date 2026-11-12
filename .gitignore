@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Per-user state written by the app (created on first run)
+config.json
+calibration/
+calibration_backup_*/
+crash_log.txt
+output/
+*_BF5AutoMarker_Output/
+debug_*.log
