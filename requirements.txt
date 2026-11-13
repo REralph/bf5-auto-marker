@@ -1,5 +1,6 @@
-opencv-python>=4.9.0
-numpy>=1.26.0
-customtkinter>=5.2.2
-pillow>=10.0.0
-tkinterdnd2>=0.6.2
+# Exact versions the app is developed and tested with (setup.bat installs these).
+opencv-python==5.0.0.93
+numpy==2.5.2
+customtkinter==6.0.0
+pillow==12.3.0
+tkinterdnd2==0.6.2
